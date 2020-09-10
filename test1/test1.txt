@@ -1,2 +1,2 @@
 This is just to test 1 
-test for good commit message 
+test for good commit message 1
